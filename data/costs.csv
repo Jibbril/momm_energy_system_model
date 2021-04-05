@@ -1,0 +1,8 @@
+name,investment_cost,variable_cost,fuel_cost,lifetime,emission_factor
+Wind,1100000,0.1,0,25,0
+PV,600000,0.1,0,25,0
+Gas,550000,2,22,30,0.202
+Hydro,0,0.1,0,80,0
+Battery,150000,0.1,0,10,0
+Transmission,2500000,0,0,50,0
+Nuclear,7700000,4,3.2,50,0
